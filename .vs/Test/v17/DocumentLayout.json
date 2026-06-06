@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramazan\\source\\repos\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Migrations\\20260606054307_Initial migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test\\Migrations\\20260606054307_Initial migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\datamodels\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\datamodels\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\controllers\\typeequipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\controllers\\typeequipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\datamodels\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\datamodels\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\datamodels\\typeequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\datamodels\\typeequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Migrations\\20260605162959_Initial Migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test\\Migrations\\20260605162959_Initial Migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|c:\\users\\ramazan\\source\\repos\\test\\test\\datamodels\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331138AF-7132-4E79-AB1E-11D8E63FD760}|Test\\Test.csproj|solutionrelative:test\\datamodels\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "Test\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T16:58:07.775Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\TestContext.cs",
+              "RelativeDocumentMoniker": "Test\\DataModels\\TestContext.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\TestContext.cs",
+              "RelativeToolTip": "Test\\DataModels\\TestContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:53:34.104Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeEquipmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Controllers\\TypeEquipmentsController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\TypeEquipmentsController.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Controllers\\TypeEquipmentsController.cs",
+              "RelativeToolTip": "Test\\Controllers\\TypeEquipmentsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:00:38.511Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApprovalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Controllers\\ApprovalsController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\ApprovalsController.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Controllers\\ApprovalsController.cs",
+              "RelativeToolTip": "Test\\Controllers\\ApprovalsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T04:15:58.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260606054307_Initial migrate.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Migrations\\20260606054307_Initial migrate.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20260606054307_Initial migrate.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Migrations\\20260606054307_Initial migrate.cs",
+              "RelativeToolTip": "Test\\Migrations\\20260606054307_Initial migrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:43:08.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TypeEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\TypeEquipment.cs",
+              "RelativeDocumentMoniker": "Test\\DataModels\\TypeEquipment.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\TypeEquipment.cs",
+              "RelativeToolTip": "Test\\DataModels\\TypeEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:23:54.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\appsettings.json",
+              "RelativeToolTip": "Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T14:56:45.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:09:52.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\Application.cs",
+              "RelativeDocumentMoniker": "Test\\DataModels\\Application.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\Application.cs",
+              "RelativeToolTip": "Test\\DataModels\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T16:08:44.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260605162959_Initial Migrate.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Migrations\\20260605162959_Initial Migrate.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20260605162959_Initial Migrate.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\Migrations\\20260605162959_Initial Migrate.cs",
+              "RelativeToolTip": "Test\\Migrations\\20260605162959_Initial Migrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T16:29:59.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "Test\\DataModels\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\Ramazan\\source\\repos\\Test\\Test\\DataModels\\ApplicationStatus.cs",
+              "RelativeToolTip": "Test\\DataModels\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:51:54.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
